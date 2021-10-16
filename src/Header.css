@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  margin-left: 800px;
+}
+.header-left {
+  font-family: monospace;
+  font-size: x-large;
+  font-family: "Dancing Script", cursive;
+}
+.header-middle {
+  font-family: monospace;
+  padding: 10px;
+  margin-left: 50px;
+  margin-top: 25px;
+  font-size: 70%;
+  color: blue;
+}
+.header-middle > h2:hover {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+}

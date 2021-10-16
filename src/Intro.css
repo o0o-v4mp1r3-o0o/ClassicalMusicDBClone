@@ -1,0 +1,24 @@
+.intro:hover {
+}
+.intro > span {
+  display: flex;
+  padding: 0 30px;
+}
+.wa {
+  font-weight: 900;
+  margin-top: 20px;
+  margin-left: 900px;
+  font-size: 18px;
+  color: #aaa;
+}
+.fa {
+  font-weight: 900;
+  margin-left: 870px;
+  font-size: 18px;
+  color: #aaa;
+}
+.ma {
+  padding: 0 0 0 28px;
+  text-align: center;
+  font-size: 200%;
+}

@@ -1,0 +1,80 @@
+.body {
+  display: flex;
+  margin-left: 550px;
+  margin-top: 50px;
+}
+
+.body_right > p {
+  border-bottom: solid #aaa;
+  color: #555555;
+  font-size: x-large;
+  font-weight: bold;
+}
+.collectfavorites > p {
+  border-bottom: solid #aaa;
+  color: #555555;
+  font-size: x-large;
+  font-weight: bold;
+}
+.containerright {
+  padding: 15px 0 0 0;
+}
+.containerright > p {
+  padding: 15px 0 0 0;
+}
+.containerright > p:nth-child(3) {
+  color: rgb(68, 68, 170);
+  font-size: 120%;
+  font-weight: 900;
+}
+.containerright > p:nth-child(3):hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.containerright > p:nth-child(7) {
+  color: rgb(68, 68, 170);
+  font-size: 120%;
+  font-weight: 900;
+}
+.containerright > p:nth-child(7):hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.body_right {
+  margin-left: 550px;
+  position: absolute;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.composers {
+  flex: 0 0 15%;
+}
+.body_left > p {
+  color: #555555;
+  font-size: x-large;
+  font-weight: bold;
+  border-bottom: solid #aaa;
+}
+.composers {
+  color: #88f;
+  font: 13px / 1.231 arial, helvetica, clean, sans-serif;
+}
+.composers:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.secondpara {
+  display: flex;
+}
+.recentvideos {
+  color: #555555;
+  font-size: x-large;
+  font-weight: bold;
+  border-bottom: solid #aaa;
+}
+.video {
+  padding: 100px;
+}

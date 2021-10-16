@@ -1,0 +1,48 @@
+.login > h1 {
+  margin-left: 550px;
+  padding: 15px 0 0 0;
+}
+.message {
+  text-align: center;
+  padding: 15px;
+  background-color: #fee;
+  margin-left: 550px;
+  margin-right: 400px;
+  color: #f00;
+}
+.login > form {
+  margin-left: 550px;
+  margin-top: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+
+  display: block;
+}
+.submit > input {
+  margin-top: 20px;
+  font-size: 150%;
+  width: 140px;
+}
+.inputpassword > input {
+  width: 300px;
+}
+.inputemail > input {
+  width: 300px;
+}
+.login > p {
+  margin-left: 550px;
+}
+.linkk {
+  font-size: 150%;
+  font-weight: bold;
+  text-decoration: none;
+  color: #44a;
+}
+.linkk:hover {
+  text-decoration: underline;
+}
+.Footer {
+  margin-left: 550px;
+  margin-top: 100px;
+  font-weight: bold;
+}
